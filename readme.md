@@ -1,4 +1,4 @@
-# HackerRank Automation ![](https://img.shields.io/badge/-Promise-yellowgreen) ![](https://img.shields.io/badge/-Async&awiat-orange)  ![](https://img.shields.io/badge/-%20JS-yellow)
+# HackerRank Automation ![](https://img.shields.io/badge/-Promise-yellowgreen) ![](https://img.shields.io/badge/-Async&await-orange)  ![](https://img.shields.io/badge/-%20JS-yellow)
 
 This project is made for learning promises and `async` and `await` in JavaScript.
 
